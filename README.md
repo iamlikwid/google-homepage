@@ -1,0 +1,1 @@
+This is a project attempting to clone the google.com layout using my own HTML/CSS.
